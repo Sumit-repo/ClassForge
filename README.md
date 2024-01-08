@@ -13,10 +13,10 @@ This School Management System is a Java application built using Java Swing for t
 3. **Manage Students:**
    - Add, edit, or delete student information.
 
-3. **Teaching Staffs:**
+3. **Manage Teaching Staffs:**
    - Add, edit, or delete Teaching Staff information.
 
-3. **Non-Teaching Staffs:**
+3. **Manage Non-Teaching Staffs:**
    - Add, edit, or delete Non-Teaching Staff information.
   
    
