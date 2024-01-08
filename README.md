@@ -42,7 +42,6 @@ Before you begin, ensure you have the following installed:
 
 2. **Project Configuration:**
    - Open the project in your favorite Java IDE.
-   - Configure the database connection in the `DatabaseConnector.java` file.
 
 3. **Run the Application:**
    - Compile and run the main class (`Main.java`) to start the application.
