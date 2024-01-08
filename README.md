@@ -1,6 +1,6 @@
-# School Management System
+# ClassForge
 
-This School Management System is a Java application built using Java Swing for the user interface, JDBC for database connectivity, and MySQL for data storage. It includes a verified login system to ensure secure access.
+This is a school management Java application built using Java Swing for the user interface, JDBC for database connectivity, and MySQL for data storage. It includes a verified login system to ensure secure access.
 
 ## Features
 
